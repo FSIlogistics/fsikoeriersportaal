@@ -1,0 +1,15 @@
+article {
+    display: flex;
+}
+article > section > a > img {
+    height:200px!important;
+}
+article > section > a > h2 {
+    margin-left:33%;
+}
+ article > section > a  {
+    margin: 20px;
+    padding:10px;
+
+}
+
