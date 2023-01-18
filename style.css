@@ -5,7 +5,7 @@ article > section > a > img {
     height:200px!important;
 }
 article > section > a > h2 {
-    margin-left:33%;
+    margin-left:33%!important;
 }
  article > section > a  {
     margin: 20px;
@@ -13,3 +13,25 @@ article > section > a > h2 {
 
 }
 
+ body {
+     background-color: white;
+ }
+ h2 , h1 {
+     color: #cea44d;
+     font-family: Roboto, sans-serif;
+     text-align: center;
+
+ }
+
+ a {
+     text-decoration: none;
+ }
+
+ font {
+     font-family: Roboto, sans-serif;
+ }
+ body {
+align-content: center;
+     max-width: 50%;
+     margin-left: 25%;
+ }
